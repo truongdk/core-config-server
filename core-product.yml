@@ -1,0 +1,2 @@
+spring.application.name=core-product
+server.port=8081
